@@ -1,0 +1,38 @@
+body{
+    background-color: #F5F7FA;
+    font-family: 'Montserrat', Arial;
+}
+
+.principal-container{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: white;
+    width: 1200px;
+    margin: 40px auto;
+}
+
+
+.description{
+    margin-bottom: 40px;
+}
+
+.description-profession{
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.projects{
+    background-color: darksalmon;
+}
+
+.work-experience{
+    background-color: aquamarine;
+}
+
+.education{
+    background-color: darksalmon;
+}
+ 
+.lateral-information{
+    background-color: #1E2939;
+}
